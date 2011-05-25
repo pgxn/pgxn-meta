@@ -18,6 +18,7 @@ Module::Build->new(
         'perl'          => 5.010,
         'Scalar::Util'  => 0,
         'SemVer'        => '0.2.0',
+        'PGXN::Meta::Validator' => '0.10.0',
     },
     recommends => {
         'Test::Pod'           => '1.41',
