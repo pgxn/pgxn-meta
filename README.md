@@ -1,8 +1,8 @@
-PGXN/Meta version 0.12.2
-=======================
+PGXN/Meta version 0.10.0
+========================
 
-This library's module, PGXN::Meta, provides a simple Perl interface to the PGXN
-Web API. It's designed to work with any PGXN mirror or API server.
+This library's module, PGXN::Meta, provides a simple Perl interface to
+`META.json` files that adhere to the [PGXN Meta Spec](http://pgxn.org/spec/).
 
 INSTALLATION
 
@@ -25,7 +25,7 @@ Dependencies
 
 PGXN-Meta requires the following modules:
 
-* perl 5.8.1
+* perl 5.10.0
 
 Copyright and Licence
 ---------------------
