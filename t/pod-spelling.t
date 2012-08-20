@@ -15,4 +15,9 @@ Signes
 distmeta
 Prereqs
 prereqs
+GitHub
+PGXN
+CPAN
+JSON
+programmatically
 
