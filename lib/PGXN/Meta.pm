@@ -185,7 +185,7 @@ All of the infrastructure tools, however, have been designed to be used to
 create networks for distributing any kind of release distributions and for
 providing a lightweight static file JSON REST API. As such, PGXN::Meta should
 work with any mirror that gets its data from a
-L<PGXN::Manager|http://github.com/theory/pgxn-manager>-managed master server,
+L<PGXN::Manager|http://github.com/pgxn/pgxn-manager>-managed master server,
 and with any L<PGXN::API>-powered server.
 
 =head1 Interface
@@ -385,11 +385,11 @@ Add L<SemVer> support to L<Version::Requirements>
 =head1 Support
 
 This module is stored in an open L<GitHub
-repository|http://github.com/theory/pgxn-meta/>. Feel free to fork and
+repository|http://github.com/pgxn/pgxn-meta/>. Feel free to fork and
 contribute!
 
 Please file bug reports via L<GitHub
-Issues|http://github.com/theory/pgxn-meta/issues/> or by sending mail to
+Issues|http://github.com/pgxn/pgxn-meta/issues/> or by sending mail to
 L<bug-PGXN-Meta@rt.cpan.org|mailto:bug-PGXN-Meta@rt.cpan.org>.
 
 =head1 Author

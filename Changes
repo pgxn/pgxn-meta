@@ -1,6 +1,7 @@
 Revision history for Perl extension PGXN-Meta.
 
 0.12.2
+      - Updated GitHub URLs to point to `/pgxn/` rather than `/theory/`.
 
 0.12.1  2011-05-12T18:11:02
       - Fixed test failures on Windows.
