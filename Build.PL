@@ -28,7 +28,7 @@ Module::Build->new(
         resources => {
             homepage   => 'http://search.cpan.org/dist/PGXN-Meta/',
             bugtracker => 'http://github.com/pgxn/pgxn-meta/issues/',
-            repository => 'http://github.com/pgxn/pgxn-meta/tree/',
+            repository => 'http://github.com/pgxn/pgxn-meta/',
         }
     },
 )->create_build_script;
